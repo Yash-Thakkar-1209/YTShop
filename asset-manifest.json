@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/YT-GIF/static/css/main.f47e16dd.css",
-    "main.js": "/YT-GIF/static/js/main.f975d22f.js",
-    "index.html": "/YT-GIF/index.html",
-    "main.f47e16dd.css.map": "/YT-GIF/static/css/main.f47e16dd.css.map",
-    "main.f975d22f.js.map": "/YT-GIF/static/js/main.f975d22f.js.map"
+    "main.css": "/YTShop/static/css/main.f47e16dd.css",
+    "main.js": "/YTShop/static/js/main.f975d22f.js",
+    "index.html": "/YTShop/index.html",
+    "main.f47e16dd.css.map": "/YTShop/static/css/main.f47e16dd.css.map",
+    "main.f975d22f.js.map": "/YTShop/static/js/main.f975d22f.js.map"
   },
   "entrypoints": [
     "static/css/main.f47e16dd.css",
